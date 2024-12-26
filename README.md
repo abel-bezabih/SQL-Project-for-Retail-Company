@@ -1,6 +1,5 @@
 # Complete Your First Project in SQL
-This is the repository for the LinkedIn Learning course Complete Your First Project in SQL. The full course is available from [LinkedIn Learning][lil-course-url].
-
+This is the repository for the LinkedIn Learning course Complete Your First Project in SQL.
 ![lil-thumbnail-url]
 
 Grow your knowledge of SQL and gain a new perspective of how to maximize SQL—and learn how to go beyond creating databases and pulling data from tables. This course provides a real-world application SQL programmers can utilize to enhance learning—and a project you can add to your coding portfolios. Instructor Megan Silvey presents a project that focuses on performing an analysis on retail data by utilizing SQL. Analyze data that includes tables with product, sales, and customer information for an ecommerce retailer. Learn about updating information in the tables, analyzing sales data, evaluating customer data, and more.
@@ -14,16 +13,10 @@ All coding exercise files will have a beginning and an end state, for example '0
 
 ### Instructor
 
-Megan Silvey
+Abel Bezabih
 
-Data Science Consultant
-
+Data Engineer
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/megan-silvey?u=104).
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHk3OAJHXC0Gw/learning-public-crop_675_1200/0/1710529454861?e=2147483647&v=beta&t=D50SiOy2tQkKt50cmUZYsJiSyGpBzyU7DWVaNdNeLIU
 
